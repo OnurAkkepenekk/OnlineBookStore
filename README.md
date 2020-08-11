@@ -45,7 +45,7 @@ When the customer clicks the Play icon which resides on the musicCD panels, a sa
 ![magazines screen](https://user-images.githubusercontent.com/53192718/86368308-b4e80c00-bc85-11ea-8aa3-273ae344d2a5.png)
 
 ### 2.6 My Orders Screen
-Customer can see his/her <strong> order history </strong>on this screen with details.
+Customer can see his/her <strong> order history </strong> on this screen with details.
 
 ![2 5 My Orders Screen](https://user-images.githubusercontent.com/53192718/86368441-d77a2500-bc85-11ea-8aca-77626c4bd5d3.png)
 
@@ -67,7 +67,7 @@ Personal information section automaticlly filled from database without phone num
 ![2 9 Invoice Example](https://user-images.githubusercontent.com/53192718/86369071-a0f0da00-bc86-11ea-86a3-280103e57756.png)
 
 ### 2.11 Admin Screen for Books
-Admin can add, list, delete and update all the products on this panels. Also, admin can see all the customers on customer list.
+Admin can <strong> add, list, delete and update </strong> all the products on this panels. Also, admin can see all the customers on customer list.
 
 ![2 10 Admin Screen for Books](https://user-images.githubusercontent.com/53192718/86369348-fa590900-bc86-11ea-8896-912db1614066.png)
 
@@ -86,7 +86,7 @@ If loginned user is not an admin, settings panel looking like this. Customers ca
 ![2 14 Settings Screen for Customers](https://user-images.githubusercontent.com/53192718/86369653-6b98bc00-bc87-11ea-87ed-b1bbfaf4517e.png)
 
 ## 3. Database 
-The data were kept in the online MsSQL database. For this, an online database has been created in Microsoft Azure account. All users who have access to the database have access, that is, the program can be run without the need for extra installation, but still the database creation script has been added under version control. 
+The data were kept in the <strong>online MsSQL database</strong>. For this, an online database has been created in Microsoft Azure account. All users who have access to the database have access, that is, the program can be run without the need for extra installation, but still the database creation script has been added under version control. 
 A database table named Tbl Customer has been created to hold user data. For the products, 3 separate database tables named Tbl_Book, Tbl_Magazine and Tbl_Music have been created. For past orders, the Tbl_Bill and Tbl_BillProduct table have been created. The tables in the database and their relations are as follows. Database connection of the project added DbConnection class.
 
 ![database](https://user-images.githubusercontent.com/53192718/86369780-9256f280-bc87-11ea-9292-eb1e633184df.png)
