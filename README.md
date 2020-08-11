@@ -7,7 +7,7 @@
 ### 5 - [THE WORKS OF TEAM MEMBERS](https://github.com/ardasdasdas/OnlineBookStore/blob/master/README.md#5-the-works-of-team-members)
 
 ## 1. INTRODUCTION
->Online Book Store is a desktop application where books, music and magazines are ordered by customers.
+> Online Book Store is a desktop application where books, music and magazines are ordered by customers.
 Customers can access product information. For book such as book name, ISBN number, the author, the publisher, the page number, total price. For magazine such as magazine name, the issue, the type of the magazine, total price. For musicCD such as the name of the singer, the type of the music, total price.
 When registering to the application, the customer enters a unique user name, name, password, address and a valid email address, and can change her/his password on the settings panel if she/he wishes. 
 After the customer has registered to the application, he/she can add or remove products from his/her cart. He/she can make installments with credit card or pay cash. He/she can choose the shipping company to deliver.
@@ -22,7 +22,7 @@ Customer can't access the product change interface that admin can access.
 ### 2.1 Login Screen && Sign Up Screen
 ![login](https://user-images.githubusercontent.com/53192718/86367562-c67ce400-bc84-11ea-9d69-106a6af89437.png)
 
-If the person who using the application does not have an account, she/he is directed to the registration screen via the create account link label to create an account. Admin can’t access the users’ password. Passwords are kept <strong><i><i>encrypted form in database</i></strong> after user registration. If customer has an account, if username and password that entered the textboxes matches customer’s information on database(sql) he/she logged in.
+> If the person who using the application does not have an account, she/he is directed to the registration screen via the create account link label to create an account. Admin can’t access the users’ password. Passwords are kept <strong><i><i>encrypted form in database</i></strong> after user registration. If customer has an account, if username and password that entered the textboxes matches customer’s information on database(sql) he/she logged in.
 
 ![sign_up](https://user-images.githubusercontent.com/53192718/86367622-de546800-bc84-11ea-83a6-c4f28da0f96f.png)
 
