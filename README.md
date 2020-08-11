@@ -24,12 +24,12 @@ Customer can't access the product change interface that admin can access.</b>
 ### 2.1 Login Screen && Sign Up Screen
 ![login](https://user-images.githubusercontent.com/53192718/86367562-c67ce400-bc84-11ea-9d69-106a6af89437.png)
 
-If the person who using the application does not have an account, she/he is directed to the registration screen via the create account link label to create an account. Admin can’t access the users’ password. Passwords are kept <strong><i><i>encrypted form in database</i></strong> after user registration. If customer has an account, if username and password that entered the textboxes matches customer’s information on database(sql) he/she logged in.
+If the person who using the application does not have an account, she/he is directed to the registration screen via the create account link label to create an account. Admin can’t access the users’ password. Passwords are kept <strong><i>encrypted form in database</i></strong> after user registration. If customer has an account, if username and password that entered the textboxes matches customer’s information on database(sql) he/she logged in.
 
 ![sign_up](https://user-images.githubusercontent.com/53192718/86367622-de546800-bc84-11ea-83a6-c4f28da0f96f.png)
 
 ### 2.2 Dashboard Screen
-MainWindow’s load function load the products from database and customer see randomly products on dashboard, under the title “Editor’s choices”. Header has an animated text for welcome, it says good morning, good evening, good night depending on time.
+MainWindow’s load function load the products from database and customer see randomly products on dashboard, under the title <strong> “Editor’s choices”</strong>. Header has an animated text for welcome, it says good morning, good evening, good night depending on time.
 
 ![dashboard](https://user-images.githubusercontent.com/53192718/86367821-1c518c00-bc85-11ea-801b-e90fe18290d9.png)
 
@@ -45,7 +45,7 @@ When the customer clicks the Play icon which resides on the musicCD panels, a sa
 ![magazines screen](https://user-images.githubusercontent.com/53192718/86368308-b4e80c00-bc85-11ea-8aa3-273ae344d2a5.png)
 
 ### 2.6 My Orders Screen
-Customer can see his/her order history on this screen with details.
+Customer can see his/her <strong> order history </strong>on this screen with details.
 
 ![2 5 My Orders Screen](https://user-images.githubusercontent.com/53192718/86368441-d77a2500-bc85-11ea-8aca-77626c4bd5d3.png)
 
