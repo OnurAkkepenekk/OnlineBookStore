@@ -102,13 +102,13 @@ Also we could use **Proxy Design Pattern**, but we had no time.
 
 ## 5. THE WORKS OF TEAM MEMBERS
 ![THE WORKS OF TEAM MEMBERS](https://user-images.githubusercontent.com/53192718/86371125-368d6900-bc89-11ea-8f31-8fd04466d18a.png)
-
-* [Muzaffer Arda Uslu](https://github.com/ardasdasdas)
-* [Eda Çam](https://github.com/edacaam)
-* [Onur Akkepenek](https://github.com/OnurAkkepenekk)
-* Berkay Gönenç Göksal
-* Aleyna Işıkdağlılar
-
+<b>
+>* [Muzaffer Arda Uslu](https://github.com/ardasdasdas)
+>* [Eda Çam](https://github.com/edacaam)
+>* [Onur Akkepenek](https://github.com/OnurAkkepenekk)
+>* Berkay Gönenç Göksal
+>* Aleyna Işıkdağlılar
+</b>
 
 
 
