@@ -22,7 +22,7 @@ Customer can't access the product change interface that admin can access.</b>
 ### 2.1 Login Screen && Sign Up Screen
 ![login](https://user-images.githubusercontent.com/53192718/86367562-c67ce400-bc84-11ea-9d69-106a6af89437.png)
 
-> If the person who using the application does not have an account, she/he is directed to the registration screen via the create account link label to create an account. Admin can’t access the users’ password. Passwords are kept <strong><i><i>encrypted form in database</i></strong> after user registration. If customer has an account, if username and password that entered the textboxes matches customer’s information on database(sql) he/she logged in.
+If the person who using the application does not have an account, she/he is directed to the registration screen via the create account link label to create an account. Admin can’t access the users’ password. Passwords are kept <strong><i><i>encrypted form in database</i></strong> after user registration. If customer has an account, if username and password that entered the textboxes matches customer’s information on database(sql) he/she logged in.
 
 ![sign_up](https://user-images.githubusercontent.com/53192718/86367622-de546800-bc84-11ea-83a6-c4f28da0f96f.png)
 
