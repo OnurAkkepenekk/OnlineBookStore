@@ -2,9 +2,9 @@
 
 ### 1 - [INTRODUCTION](https://github.com/OnurAkkepenekk/OnlineBookStore#1-introduction)
 ### 2 - [DESIGN](https://github.com/OnurAkkepenekk/OnlineBookStore#2-design)
-### 3 - [DATABASE]()
-### 4 - [UML]()
-### 5 - [THE WORKS OF TEAM MEMBERS]()
+### 3 - [DATABASE](https://github.com/OnurAkkepenekk/OnlineBookStore#3-database)
+### 4 - [UML](https://github.com/OnurAkkepenekk/OnlineBookStore#4-uml)
+### 5 - [THE WORKS OF TEAM MEMBERS](https://github.com/OnurAkkepenekk/OnlineBookStore#5-the-works-of-team-members)
 
 ## 1. INTRODUCTION
 > <b>Online Book Store is a desktop application where books, music and magazines are ordered by customers.
