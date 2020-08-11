@@ -1,10 +1,10 @@
 # Online Book Store
 
 ### 1 - [INTRODUCTION](https://github.com/OnurAkkepenekk/OnlineBookStore#1-introduction)
-### 2 - [DESIGN](https://github.com/ardasdasdas/OnlineBookStore/blob/master/README.md#2-design)
-### 3 - [DATABASE](https://github.com/ardasdasdas/OnlineBookStore/blob/master/README.md#3-databse)
-### 4 - [UML](https://github.com/ardasdasdas/OnlineBookStore/blob/master/README.md#4-uml)
-### 5 - [THE WORKS OF TEAM MEMBERS](https://github.com/ardasdasdas/OnlineBookStore/blob/master/README.md#5-the-works-of-team-members)
+### 2 - [DESIGN](https://github.com/OnurAkkepenekk/OnlineBookStore#2-design)
+### 3 - [DATABASE]()
+### 4 - [UML]()
+### 5 - [THE WORKS OF TEAM MEMBERS]()
 
 ## 1. INTRODUCTION
 > <b>Online Book Store is a desktop application where books, music and magazines are ordered by customers.
@@ -83,7 +83,7 @@ If loginned user is not an admin, settings panel looking like this. Customers ca
 
 ![2 14 Settings Screen for Customers](https://user-images.githubusercontent.com/53192718/86369653-6b98bc00-bc87-11ea-87ed-b1bbfaf4517e.png)
 
-## 3. Databse 
+## 3. Database 
 The data were kept in the online MsSQL database. For this, an online database has been created in Microsoft Azure account. All users who have access to the database have access, that is, the program can be run without the need for extra installation, but still the database creation script has been added under version control. 
 A database table named Tbl Customer has been created to hold user data. For the products, 3 separate database tables named Tbl_Book, Tbl_Magazine and Tbl_Music have been created. For past orders, the Tbl_Bill and Tbl_BillProduct table have been created. The tables in the database and their relations are as follows. Database connection of the project added DbConnection class.
 
