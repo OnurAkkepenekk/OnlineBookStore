@@ -7,7 +7,7 @@
 ### 5 - [THE WORKS OF TEAM MEMBERS](https://github.com/ardasdasdas/OnlineBookStore/blob/master/README.md#5-the-works-of-team-members)
 
 ## 1. INTRODUCTION
-Online Book Store is a desktop application where books, music and magazines are ordered by customers.
+>Online Book Store is a desktop application where books, music and magazines are ordered by customers.
 Customers can access product information. For book such as book name, ISBN number, the author, the publisher, the page number, total price. For magazine such as magazine name, the issue, the type of the magazine, total price. For musicCD such as the name of the singer, the type of the music, total price.
 When registering to the application, the customer enters a unique user name, name, password, address and a valid email address, and can change her/his password on the settings panel if she/he wishes. 
 After the customer has registered to the application, he/she can add or remove products from his/her cart. He/she can make installments with credit card or pay cash. He/she can choose the shipping company to deliver.
