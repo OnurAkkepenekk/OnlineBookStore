@@ -1,6 +1,6 @@
 # Online Book Store
 
-### 1 - [INTRODUCTION](https://github.com/ardasdasdas/OnlineBookStore/blob/master/README.md#1-introduction)
+### 1 - [INTRODUCTION](https://github.com/OnurAkkepenekk/OnlineBookStore#1-introduction)
 ### 2 - [DESIGN](https://github.com/ardasdasdas/OnlineBookStore/blob/master/README.md#2-design)
 ### 3 - [DATABASE](https://github.com/ardasdasdas/OnlineBookStore/blob/master/README.md#3-databse)
 ### 4 - [UML](https://github.com/ardasdasdas/OnlineBookStore/blob/master/README.md#4-uml)
