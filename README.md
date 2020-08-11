@@ -1,4 +1,4 @@
-# OnlineBookStore
+# Online Book Store
 
 ### 1 - [INTRODUCTION](https://github.com/ardasdasdas/OnlineBookStore/blob/master/README.md#1-introduction)
 ### 2 - [DESIGN](https://github.com/ardasdasdas/OnlineBookStore/blob/master/README.md#2-design)
